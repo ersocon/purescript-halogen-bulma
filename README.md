@@ -1,6 +1,8 @@
 # purescript-halogen-bulma
 Bulma styles classes for Halogen
 
+[![Build Status](https://travis-ci.org/ersocon/purescript-halogen-bulma.svg?branch=master)](https://travis-ci.org/ersocon/purescript-halogen-bulma)
+
 
 The classes can be used as follows:
 
