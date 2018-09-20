@@ -6,8 +6,7 @@ Bulma styles classes for Halogen
 
 The classes can be used as follows:
 
-```
-
+```purescript
 import Halogen.Themes.Bulma as B
 
 render :: State -> H.ComponentHTML Query
@@ -17,4 +16,3 @@ render :: State -> H.ComponentHTML Query
       [ HH.text label ]
 
 ```
-        
