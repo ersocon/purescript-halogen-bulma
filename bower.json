@@ -1,0 +1,22 @@
+{
+  "name": "purescript-halogen-bulma",
+  "homepage": "https://github.com/ersocon/purescript-halogen-bulma",
+  "description": "PureScript library for building Halogen apps with the Bulma CSS Framework",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ersocon/purescript-halogen-bulma.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-halogen": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-spec": "^3.0.0"
+  }
+}
