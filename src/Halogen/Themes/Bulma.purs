@@ -48,6 +48,12 @@ isActive = ClassName "is-active"
 isHoverable :: ClassName
 isHoverable = ClassName "is-hoverable"
 
+isHalf :: ClassName
+isHalf = ClassName "is-half"
+
+isRight :: ClassName
+isRight = ClassName "is-right"
+
 field :: ClassName
 field = ClassName "field"
 
@@ -65,6 +71,9 @@ hasShadow = ClassName "has-shadow"
 
 hasTextCentered :: ClassName
 hasTextCentered = ClassName "has-text-centered"
+
+hasName :: ClassName
+hasName = ClassName "has-name"
 
 input :: ClassName
 input = ClassName "input"
@@ -99,6 +108,9 @@ table = ClassName "table"
 isFullwidth :: ClassName
 isFullwidth = ClassName "is-fullwidth"
 
+isBoxed :: ClassName
+isBoxed = ClassName "is-boxed"
+
 button :: ClassName
 button = ClassName "button"
 
@@ -119,3 +131,36 @@ tag = ClassName "tag"
 
 notification :: ClassName
 notification = ClassName "notification"
+
+file :: ClassName
+file = ClassName "file"
+
+fileLabel :: ClassName
+fileLabel = ClassName "file-label"
+
+fileInput :: ClassName
+fileInput = ClassName "file-input"
+
+fileCta :: ClassName
+fileCta = ClassName "file-cta"
+
+fileIcon :: ClassName
+fileIcon = ClassName "file-icon"
+
+fileName :: ClassName
+fileName = ClassName "file-name"
+
+isWhite :: ClassName
+isWhite = ClassName "is-white"
+
+isBlack :: ClassName
+isBlack = ClassName "is-black"
+
+isLight :: ClassName
+isLight = ClassName "is-light"
+
+isDark :: ClassName
+isDark = ClassName "is-dark"
+
+isLink :: ClassName
+isLink = ClassName "is-link"
