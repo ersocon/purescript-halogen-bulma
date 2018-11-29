@@ -42,6 +42,15 @@ navBarLink = ClassName "navbar-link"
 navBarDropdown :: ClassName
 navBarDropdown = ClassName "navbar-dropdown"
 
+navBarBurger :: ClassName
+navBarBurger = ClassName "navbar-burger"
+
+navBarBrand :: ClassName
+navBarBrand = ClassName "navbar-brand"
+
+burger :: ClassName
+burger = ClassName "burger"
+
 isActive :: ClassName
 isActive = ClassName "is-active"
 
