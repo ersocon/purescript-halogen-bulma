@@ -173,3 +173,9 @@ isDark = ClassName "is-dark"
 
 isLink :: ClassName
 isLink = ClassName "is-link"
+
+columns :: ClassName
+columns = ClassName "columns"
+
+column :: ClassName
+column = ClassName "column"
